@@ -1,0 +1,35 @@
+﻿@using Assignment_1.Infrastructure
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<div class="col-md-6 col-lg-4">
+    <div class="card text-center card-product">
+        <div class="card-product__img">
+            <a href="/product/@Model.ProductID">
+                <img class="card-img" src="/img/product/@Model.Image" alt="">
+            </a>
+            <ul class="card-product__imgOverlay">
+                <li><button><i class="fa fa-search"></i></button></li>
+                <li>
+                    <form asp-page="/Cart" method="post">
+                        <input type="hidden" name="productId" value="@Model.ProductID" />
+                        <button>
+                            <i class="fa fa-shopping-cart"></i>
+                        </button>
+                        <input type="hidden" name="returnUrl" value="/Catalogue" />
+
+                    </form>
+                </li>
+                <li><button><i class="fa fa-heart"></i></button></li>
+            </ul>
+        </div>
+        <div class="card-body">
+            <p>@Model.Category</p>
+            <h4 class="card-product__title"><a href="#">@Model.Name</a></h4>
+            <p class="card-product__price">@Model.Price.ToString("c")</p>
+        </div>
+    </div>
+</div>
+

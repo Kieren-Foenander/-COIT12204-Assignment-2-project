@@ -1,0 +1,87 @@
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\bin\Debug\netcoreapp3.1\global.json
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\bin\Debug\netcoreapp3.1\Assignment 1.exe
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\bin\Debug\netcoreapp3.1\Assignment 1.deps.json
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\bin\Debug\netcoreapp3.1\Assignment 1.runtimeconfig.json
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\bin\Debug\netcoreapp3.1\Assignment 1.runtimeconfig.dev.json
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\bin\Debug\netcoreapp3.1\Assignment 1.dll
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\bin\Debug\netcoreapp3.1\Assignment 1.pdb
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\bin\Debug\netcoreapp3.1\Assignment 1.Views.dll
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\bin\Debug\netcoreapp3.1\Assignment 1.Views.pdb
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\obj\Debug\netcoreapp3.1\Assignment 1.csproj.AssemblyReference.cache
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\obj\Debug\netcoreapp3.1\Assignment 1.AssemblyInfoInputs.cache
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\obj\Debug\netcoreapp3.1\Assignment 1.AssemblyInfo.cs
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\obj\Debug\netcoreapp3.1\Assignment 1.csproj.CoreCompileInputs.cache
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\obj\Debug\netcoreapp3.1\Assignment 1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\obj\Debug\netcoreapp3.1\Assignment 1.RazorAssemblyInfo.cache
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\obj\Debug\netcoreapp3.1\Assignment 1.RazorAssemblyInfo.cs
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\obj\Debug\netcoreapp3.1\Assignment 1.TagHelpers.input.cache
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\obj\Debug\netcoreapp3.1\Assignment 1.TagHelpers.output.cache
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\obj\Debug\netcoreapp3.1\Assignment 1.RazorCoreGenerate.cache
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\obj\Debug\netcoreapp3.1\Razor\Pages\Cart.cshtml.g.cs
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\obj\Debug\netcoreapp3.1\Razor\Pages\_CartLayout.cshtml.g.cs
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\obj\Debug\netcoreapp3.1\Razor\Views\Catalogue\Index.cshtml.g.cs
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\obj\Debug\netcoreapp3.1\Razor\Views\Catalogue\ProductDetails.cshtml.g.cs
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CartSummary\Default.cshtml.g.cs
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\NavigationMenu\Default.cshtml.g.cs
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ProductSummary.cshtml.g.cs
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\obj\Debug\netcoreapp3.1\Assignment 1.RazorTargetAssemblyInfo.cache
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\obj\Debug\netcoreapp3.1\Assignment 1.RazorTargetAssemblyInfo.cs
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\obj\Debug\netcoreapp3.1\Assignment 1.Views.pdb
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\obj\Debug\netcoreapp3.1\Assignment 1.csproj.CopyComplete
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\obj\Debug\netcoreapp3.1\staticwebassets\Assignment 1.StaticWebAssets.Manifest.cache
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\obj\Debug\netcoreapp3.1\staticwebassets\Assignment 1.StaticWebAssets.xml
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\obj\Debug\netcoreapp3.1\Assignment 1.dll
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\obj\Debug\netcoreapp3.1\Assignment 1.pdb
+C:\Users\black\OneDrive\Uni\YR3 S2\COIT12204 Web Site Development\Assignment 2\submission folder\Foenander-Kieren\obj\Debug\netcoreapp3.1\Assignment 1.genruntimeconfig.cache

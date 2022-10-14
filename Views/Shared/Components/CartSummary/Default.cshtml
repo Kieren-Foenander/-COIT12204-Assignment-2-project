@@ -1,0 +1,19 @@
+﻿@model Cart
+<div class="">
+    <a class="" asp-page="/Cart">
+        <button>
+            <i class="fa fa-shopping-cart"></i>
+
+
+            @if (Model.Lines.Count() > 0)
+            {
+
+                <span class="nav-shop__circle">
+                    @Model.Lines.Sum(x => x.Quantity)
+                </span>
+
+            }
+        </button>
+        </button>
+    </a>
+</div>
